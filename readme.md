@@ -1,5 +1,5 @@
 ### Brick Breaker ###
-Un juego de Brick Breaker con la ayuda de MediaPipe.
+Un juego de Brick Breaker "rompe ladrillos" usando nuestra camara y las manos con la ayuda de MediaPipe.
 
 ![image](https://github.com/vhngroup/brick_breaker_game/blob/main/statics/cover.png)
 
